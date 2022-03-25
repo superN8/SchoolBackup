@@ -1,0 +1,12 @@
+J. Gosling is often called the inventor of Java.
+E. Dijkstra was the supreme algorithmist - he researched and developed how to solve problems fast.
+A. Kay developed the first OO programming language called Smalltalk.
+R. Pausch led the team of Carnegie Mellon graduate students that developed the Alice programming language.
+A. Turing is often considered the father of modern computer science.
+J. Backus developed the Fortran language with his team at IBM.
+D. Knuth wrote the ultimate Computer Science comprehensive text called The Art of Computer Programming.
+J. McCarthy is famous for his contributions to and coined the term Artificial Intelligence.
+G. Hopper was a Navy Admiral who invented the first compiler.
+J. von Neumann developed the von Neumann architecture used in virtually every non-parallel processing computer.
+A. Lovelace was a mathematician who is credited for writing the first computer program in the 1840's.
+There are 11 famous computer scientists in this file
