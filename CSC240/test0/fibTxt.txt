@@ -1,0 +1,5 @@
+cd F:/MBR2TB/programs/csc240/test0
+gcc --std=c11 -Wall -pedantic fib.c
+gcc fib.c -o go
+./go
+6

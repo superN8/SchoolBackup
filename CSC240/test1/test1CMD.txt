@@ -1,0 +1,5 @@
+clear
+cd F:/MBR2TB/programs/csc240/test1
+gcc --std=c11 -Wall -pedantic test.c
+gcc test.c -o ./go
+./go

@@ -1,0 +1,4 @@
+cd F:/MBR2TB/programs/csc240/test0
+gcc --std=c11 -pedantic -Wall test2.c
+gcc test2.c -o runnit
+./runnit

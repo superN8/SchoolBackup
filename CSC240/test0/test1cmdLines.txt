@@ -1,0 +1,5 @@
+cd F:/MBR2TB/programs/csc240/test0
+gcc --std=c11 -pedantic -Wall test1.c
+gcc test1.c -o test1
+./test1
+5
