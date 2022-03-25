@@ -1,0 +1,4 @@
+cd F:/MBR2TB/programs/csc240/practice3
+gcc --std=c11 -Wall -pedantic basiclist.c
+gcc basiclist.c -o ./go
+./go

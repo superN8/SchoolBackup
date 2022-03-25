@@ -1,0 +1,4 @@
+cd F:/MBR2TB/programs/csc240/proj2
+gcc --std=c11 -Wall -pedantic term.c
+gcc term.c -o ./go
+./go

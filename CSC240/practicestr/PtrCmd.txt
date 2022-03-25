@@ -1,0 +1,4 @@
+cd F:/MBR2TB/programs/csc240/practicestr
+gcc --std=c11 practice2ptr.c -Wall -pedantic
+gcc practice2ptr.c -o getJiggyWithIt
+./getJiggyWithit

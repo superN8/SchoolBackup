@@ -1,0 +1,2 @@
+cd F:/MBR2TB/programs/csc240/proj2/proj2startercode
+gcc -ansi -pedantic -Wall basiclist.c -DTEST
