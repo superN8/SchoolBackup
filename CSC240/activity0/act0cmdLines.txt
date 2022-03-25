@@ -1,0 +1,6 @@
+cd F:/MBR2TB/programs/csc240/activity0
+gcc --std=c11 -pedantic -Wall activity0.c
+gcc activity0.c -o activity0
+./activity0
+5
+n8
